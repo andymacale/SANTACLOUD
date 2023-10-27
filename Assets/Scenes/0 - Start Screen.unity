@@ -243,7 +243,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 56108181}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d25cd8ebba074481c94db7a2a4533952, type: 3}
+  m_Script: {fileID: 11500000, guid: edbe102fab2c047939b3ce5cebc86b7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &123369525
@@ -1440,13 +1440,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 56108184}
-        m_TargetAssemblyTypeName: StartLeaderboard, Assembly-CSharp
-        m_MethodName: Leaderboard
-        m_Mode: 1
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: MoveToScene
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 7
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
