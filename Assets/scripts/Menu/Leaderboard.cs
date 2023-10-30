@@ -10,4 +10,7 @@ public class StartLeaderboard : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 6);
     }
+
+ 
 }
+
